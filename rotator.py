@@ -1,4 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
+# Edward Parrish
+# rotator.py
 
 import sys
 
